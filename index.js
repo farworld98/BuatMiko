@@ -7,7 +7,7 @@ CFonts.say('Fajar And Randi', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say('\'By:\' mhmdfjralfarizi_', {
+CFonts.say('\'By:\' mikorand_husblenov', {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
