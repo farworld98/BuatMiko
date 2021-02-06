@@ -10,19 +10,19 @@ Ketik di *[TERMUX]*
 4) $pkg install nodejs
 
 Untuk Githubnya..
-5) $git clone https://github.com/Tersakiti404-cyber/FajarBOTV5.6
+5) $git clone https://github.com/Tersakiti404-cyber/BuatMiko
 6) $ls
-7) $cd FajarBOTV5.6
+7) $cd BuatMiko
 
 yang *terakhirr*..
 Penginstalannya cuy :)
-8) npm i
+8) bash install.sh
 9) node index.js
 
 _Bisa kalian liat tutorialnya di_
 *Youtube kami:*
 https://www.youtube.com/c/DrawlNag
-👆🏻 *_YOUTUBE CREATOR BOT INI*_ 👆🏻
+👆🏻 *_YOUTUBE CREATOR BOT INI_* 👆🏻
 `.trim(), m)
 }
 handler.help = ['tutorial']
