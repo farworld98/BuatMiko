@@ -1,12 +1,12 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi • Pulsa 」
-│ • Telkomsel: 0813-3378-2061
-│ • DANA: 0813-3378-2061
-│ • Gopay: 0813-3378-2061
-│ • OVO: 0813-3378-2061
+│ • Telkomsel: 0856-3243-961
+│ • DANA: 0856-3243-961
+│ • Gopay: 0856-3243-961
+│ • OVO: 0856-3243-961
 ╰────
 ╭─「 Ingin Donasi? 」
-│> Chat: Wa.me/62813-3378-2061
+│> Chat: Wa.me/+62856-3243-961
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
