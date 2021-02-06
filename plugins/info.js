@@ -6,7 +6,7 @@ Dibuat dengan javascript via NodeJs,Ffmpeg,dan ImageMagick
 Rec: Drawl Nag
 Script: @Nurotomo
 Github: 
-https://github.com/Tersakiti404-cyber/BuatMiko
+https://github.com/Tersakiti404-cyber/FajarBOTV5.6
 
 *Sosmed :*
 Kritik kami di sosmed ataupun YouTube.
@@ -18,14 +18,13 @@ youtube.com/DrawlNag
 Nurotomo
 MfarelS
 ST4RZ
-Fajar
 Dan kawan yang lain :)
 
 ╠═〘 DONASI 〙 ═
-╠➥ Tsel: 0856-3243-961
-╠➥ DANA: 0856-3243-961
-╠➥ Gopay: 0856-3243-961
-║>Request? Wa.me/+62856-3243-961
+╠➥ Tsel: 0813-3378-2061
+╠➥ DANA: 0813-3378-2061
+╠➥ Gopay: 0813-3378-2061
+║>Request? Wa.me/+62813-3378-2061
 ╠═〘 INFO BOT 〙 ═
 `.trim(), m)
 }
