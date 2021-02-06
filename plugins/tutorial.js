@@ -10,19 +10,18 @@ Ketik di *[TERMUX]*
 4) $pkg install nodejs
 
 Untuk Githubnya..
-5) $git clone https://github.com/Tersakiti404-cyber/BuatMiko
+5) $git clone https://github.com/Arya274/Arya-BOT3
 6) $ls
-7) $cd BuatMiko
+7) $cd Arya-BOT3
 
 yang *terakhirr*..
 Penginstalannya cuy :)
-8) bash install.sh
+8) npm i
 9) node index.js
 
 _Bisa kalian liat tutorialnya di_
 *Youtube kami:*
 https://www.youtube.com/c/DrawlNag
-👆🏻 *_YOUTUBE CREATOR BOT INI_* 👆🏻
 `.trim(), m)
 }
 handler.help = ['tutorial']
