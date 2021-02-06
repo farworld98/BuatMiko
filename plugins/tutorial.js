@@ -10,13 +10,13 @@ Ketik di *[TERMUX]*
 4) $pkg install nodejs
 
 Untuk Githubnya..
-5) $git clone https://github.com/Arya274/Arya-BOT3
+5) $git clone https://github.com/Tersakiti404-cyber/BuatMiko
 6) $ls
-7) $cd Arya-BOT3
+7) $cd BuatMiko
 
 yang *terakhirr*..
 Penginstalannya cuy :)
-8) npm i
+8) bash install.sh
 9) node index.js
 
 _Bisa kalian liat tutorialnya di_
