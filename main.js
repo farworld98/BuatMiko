@@ -11,9 +11,9 @@ let util = require('util')
 let WAConnection = simple.WAConnection(_WAConnection)
 
 
-global.owner = ['6281333782061@s.whatsapp.net'] // Put your number here
-global.mods = ['6281333782061@s.whatsapp.net'] // Want some help?
-global.prems = ['6281333782061@s.whatsapp.net'] // Premium user has unlimited limit
+global.owner = ['628563243961@s.whatsapp.net'] // Put your number here
+global.mods = ['628563243961@s.whatsapp.net'] // Want some help?
+global.prems = ['628563243961@s.whatsapp.net'] // Premium user has unlimited limit
 
 
 global.timestamp = {
@@ -205,8 +205,8 @@ conn.handler = async function (m) {
     }
   }
 }
-conn.welcome = 'Welcome, @user👋'
-conn.bye = 'Bye, @user👋'
+conn.welcome = 'Welcome @user👋 Semoga Betah DiGrup'
+conn.bye = 'Bye Bye, @user👋'
 conn.onAdd = async function ({ m, participants }) {
   for (let user of participants) {
     let pp = './src/avatar_contact.png'
